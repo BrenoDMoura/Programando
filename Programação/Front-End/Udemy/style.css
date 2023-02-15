@@ -1,0 +1,39 @@
+:root{
+    background-color: antiquewhite;
+    font-family: montserrat, helvetica, sans-serif;
+    margin: 20px;
+}
+
+h1{
+    text-align: center;
+    background-color: bisque;
+    color: rgb(208, 172, 105);
+    margin: 0;
+    padding: 0, 80%;
+    border-bottom-style: solid;
+    border-bottom-width: 3px;
+    border-bottom-color: black;
+}
+
+h2{
+    background-color: rgba(255, 187, 118, 0.477);
+    color: rgb(253, 182, 97);
+    padding: 10px;
+}
+
+p{
+    color: #818181;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+ul{
+    padding-left: 0;
+
+}
+
+li{
+    color: #818181;
+    padding-left: 5px;
+    list-style: inside;
+}
